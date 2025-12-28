@@ -27,7 +27,7 @@ var staticFile embed.FS
 //go:embed resources/config/messages.properties
 var propsFile embed.FS
 
-// @title go-webapp-sample API
+// @title go-webapp-sample AP
 // @version 1.5.1
 // @description This is API specification for go-webapp-sample project.
 
