@@ -11,7 +11,7 @@ This sample uses [Echo](https://echo.labstack.com/) as web application framework
 This sample application provides only several functions as Web APIs.
 Please refer to the 'Service' section about the detail of those functions.
 
-Also, this application contains the static contents such as html file, css file and javascript file which built [vuejs-webapp-sample](https://github.com/ybkuroki/vuejs-webapp-sample) project to easily check the behavior of those functions.
+Also, this aaapplication contains the static contents such as html file, css file and javascript file which built [vuejs-webapp-sample](https://github.com/ybkuroki/vuejs-webapp-sample) project to easily check the behavior of those functions.
 So, you can check this application without starting a web server for front end.
 Please refer to the 'Starting Server' section about checking the behavior of this application.
 
